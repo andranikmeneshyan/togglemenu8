@@ -1,0 +1,6 @@
+name: Toggle Menu
+description: Easy menu toggler
+package: Armrus
+type: module
+version : 1.0
+core: 8.x

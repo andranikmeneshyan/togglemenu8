@@ -1,0 +1,4 @@
+administer toggle menu:
+  title: 'Allow administer toggle menu'
+  description: 'Gives permission to administer toggle menu.'
+  restrict access: true

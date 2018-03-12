@@ -1,0 +1,8 @@
+togglemenu.link:
+  title: 'Toggle menu settings'
+  description: 'This page allow to change Toggle menu settings'
+  parent: system.admin_config_ui
+  menu_name: 'admin'
+  route_name: 'togglemenu.routing'
+  weight: -15
+  
