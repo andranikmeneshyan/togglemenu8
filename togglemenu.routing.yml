@@ -1,7 +1,7 @@
 togglemenu.routing:
   path: '/admin/config/user-interface/togglemenu'
   defaults:
-    _title: 'Toggle menu settings'
-    _controller: '\Drupal\togglemenu\Controller\TogglemenuController::configPage'
+    _form: '\Drupal\togglemenu\Form\TogglemenuForm'
+    _title: 'Toggle menu settings'   
   requirements:
     _permission: 'administer toggle menu'
