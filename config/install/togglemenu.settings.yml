@@ -1,0 +1,6 @@
+menu_wrapper: '#menu-wrapper'
+menu_selector: ul.menu
+menu_title: 'Меню'
+burger_html: '<i class="toggle-menu-burger"></i>'
+burger_parent: '#header'
+compress: 0
